@@ -14,10 +14,10 @@ SOURCES += \
 
 HEADERS += \
     widget.h
-
+# World！这是我的C++大作业
 FORMS += \
     widget.ui
-# 这是我新加的一行注释，Hello！ World！这是我的C++大作业
+# 这是我新加的一行注释，Hello！
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
