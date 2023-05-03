@@ -11,7 +11,7 @@ CONFIG += c++17
 SOURCES += \
     main.cpp \
     widget.cpp
-
+#你好，这是我的代码
 HEADERS += \
     widget.h
 # World！这是我的C++大作业
